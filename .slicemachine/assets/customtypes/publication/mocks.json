@@ -1,0 +1,28 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "mostly"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Esse labore non do Lorem officia pariatur in. Enim sit nulla sit aute ea sint consectetur ut enim sunt. Proident duis dolore fugiat aute officia elit aliquip."
+        }
+      }
+    ]
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Amet elit dolore id laboris aute ipsum cupidatat."
+        }
+      }
+    ]
+  }
+}
